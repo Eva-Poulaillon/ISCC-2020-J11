@@ -22,3 +22,6 @@
             catch(PDOException $e){
                 echo "Erreur : " . $e->getMessage();
             }
+        ?>
+    </body>
+</html>
